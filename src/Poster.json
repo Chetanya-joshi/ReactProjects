@@ -1,0 +1,102 @@
+[
+
+    {
+        "id" : 1,
+        "title" : "God Father",
+        "Poster_url" : "https://img.fruugo.com/product/3/21/14282213_max.jpg",
+        "Artist" : "Marlon Brando",
+        "Genre" : "Mafia , Crime Film , Drama , Crime Fiction",
+        "Release" : "5 October 2022",
+        "Description" : "The Godfather is set in the 1940s and takes place entirely within the world of the Corleones, a fictional New York Mafia family. It opens inside the dark office of the family patriarch, Don Vito Corleone",
+        "Duration":"2h 37m",
+        "Character1":"https://www.behindwoods.com/features/visitors-1/images-2/godfather-10-11-09.jpg",
+        "Character2":"https://www.behindwoods.com/features/visitors-1/images-2/godfather-10-11-09.jpg",
+        "Video" : "/Video/GodFather.mp4"
+        
+    },
+
+    {
+        "id" : 2,
+        "title" : "Annabelle",
+        "Poster_url" : "https://i.etsystatic.com/12729518/r/il/60b1dd/1942526208/il_794xN.1942526208_glix.jpg",
+        "Artist" : "Al Pacino",
+        "Genre" : "Horror , Thriller , Mystery , Supernatural",
+        "Release" : "3 October 2014",
+        "Description":"A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists",
+        "Duration":"1h 39m",
+        "Character1":"https://tse1.mm.bing.net/th?id=OIP.Sf8FmZ761ppkrramAG1b_QAAAA&pid=Api&P=0&h=180",
+        "Character2":"https://tse2.mm.bing.net/th?id=OIP.R0WGlLU8A1l8kM1YuYAyIAHaGx&pid=Api&P=0&h=180",
+        "Video" : "/Video/Annabelle.mp4"
+    },
+
+    {
+        "id" : 3,
+        "title" : "Darkknight",
+        "Poster_url" : "https://originalvintagemovieposters.com/wp-content/uploads/2020/03/Dark-Knight-70822-scaled.jpg",
+        "Artist" : "Christian Bale",
+        "Genre" : "Action , Adventure , Drama",
+        "Release" : "18 July 2008",
+        "Description":"The plot follows the vigilante Batman, police lieutenant James Gordon, and district attorney Harvey Dent, who form an alliance to dismantle organized crime in Gotham City.",
+        "Duration":"2h 32m",
+        "Character1":"https://www.behindwoods.com/features/visitors-1/images-2/godfather-10-11-09.jpg",
+        "Character2":"https://www.behindwoods.com/features/visitors-1/images-2/godfather-10-11-09.jpg",
+        "Video" : "/Video/DarkKnigh.mp4"
+    },
+
+    {
+        "id" : 4,
+        "title" : "Inception",
+        "Poster_url" : "https://rukminim1.flixcart.com/image/416/416/l0r1j0w0/poster/j/o/u/large-inception-poster-print-poster-on-large-print-36x24-inches-original-imagcgwwykj65vuv.jpeg?q=70",
+        "Artist" : "Heath Ledger",
+        "Genre" : "Action , Adventure , Thriller , Science ficition",
+        "Release" : "16 July 2010",
+        "Description":"Inception centres on brooding “extractor” Dom Cobb (played by Leonardo DiCaprio)—a thief who invades targets' dreams through a chemical-induced shared dream state in order to steal valuable information.",
+        "Duration":"2h 28m",
+        "Character1":"https://www.behindwoods.com/features/visitors-1/images-2/godfather-10-11-09.jpg",
+        "Character2":"https://www.behindwoods.com/features/visitors-1/images-2/godfather-10-11-09.jpg",
+        "Video" : "/Video/Inception.mp4"
+    },
+
+    {
+        "id" : 5,
+        "title" : "Interstellar",
+        "Poster_url" : "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "Artist" : "Leonardo DiCaprio",
+        "Genre" : "Mystery , Adventure , Drama , Science ficition",
+        "Release" : "7 November 2014",
+        "Description":"Interstellar is about Earth's last chance to find a habitable planet before a lack of resources causes the human race to go extinct. The film's protagonist is Cooper a former NASA pilot who is tasked with leading a mission through a wormhole to find a habitable planet in another galaxy.",
+        "Duration":"2h 49m",
+        "Character1":"https://www.behindwoods.com/features/visitors-1/images-2/godfather-10-11-09.jpg",
+        "Character2":"https://www.behindwoods.com/features/visitors-1/images-2/godfather-10-11-09.jpg",
+        "Video" : "/Video/Interstellar.mp4"
+    },
+
+    {
+        "id" : 6,
+        "title" : "Revenant",
+        "Poster_url" : "https://m.media-amazon.com/images/I/A1BjliXNDPL.jpg",
+        "Artist" : "Joseph Gordon-Levitt",
+        "Genre" : "Western , Survival , Drama",
+        "Release" : "26 February 2016",
+        "Description":"Set in 1820s America, fur trapper and Frontiersman Hugh Glass struggles to survive the harsh winter after an oppressive Ree Indian attack and a mauling from a hostile maternal bear",
+        "Duration":"2h 36m",
+        "Character1":"https://www.behindwoods.com/features/visitors-1/images-2/godfather-10-11-09.jpg",
+        "Character2":"https://www.behindwoods.com/features/visitors-1/images-2/godfather-10-11-09.jpg",
+        "Video" : "/Video/Revenant.mp4"
+    },
+
+    {
+        "id" : 7,
+        "title" : "Shahid",
+        "Poster_url" : "https://m.media-amazon.com/images/M/MV5BMTJhMjc5ZGMtNTJiOS00ZGFhLTg5MTEtNGU1NzNiNmJjZDY4XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+        "Artist" : "Rajkummar Rao",
+        "Genre" : "Biopic, Legal Drama Political Thriller, Prison Film",
+        "Release" : "18 October 2013",
+        "Description":"The film opens with murder of Shahid Azmi (Rajkummar Rao) and goes into flashback to the violence during the Bombay riots.",
+        "Duration":"2h 9m",
+        "Character1":"https://www.behindwoods.com/features/visitors-1/images-2/godfather-10-11-09.jpg",
+        "Character2":"https://www.behindwoods.com/features/visitors-1/images-2/godfather-10-11-09.jpg",
+        "Video" : "/Video/Shahid.mp4"
+    }
+
+]

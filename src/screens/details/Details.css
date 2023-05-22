@@ -1,0 +1,24 @@
+.poster{
+    margin-left:1rem;
+}
+
+.outer_div{
+    display:flex;
+    justify-content: space-around;
+    width:100%;
+}
+
+.poster{
+    flex-basis:20%;
+}
+
+.poster_details{
+    text-align:left;
+    flex-basis:60%;
+}
+
+.poster_rating{
+    flex-basis:20%;
+    padding-left:1rem;
+}
+

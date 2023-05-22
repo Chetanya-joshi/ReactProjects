@@ -1,0 +1,39 @@
+.title{
+    display:fixed;
+    background-color: #ff9999;
+    padding:8px;
+    text-align: center;
+    font-size:1rem;
+    
+}
+.upcoming_movies{
+    margin-bottom:1rem;
+   
+ }
+
+ .relesed_movie_session{
+    display:flex;
+    width:100%;
+   
+    
+ }
+
+ .relesed_movie{
+    flex-basis: 76%;
+    margin:16px;
+    
+ }
+
+ .movie_filter{
+    flex-basis:24%;
+    margin:16px;
+ }
+
+ .form{
+   display: flex;
+   flex-direction:column;
+ }
+
+ .hello{
+   width:100%;
+ }
